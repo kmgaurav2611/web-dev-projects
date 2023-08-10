@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.digitalwatchvault",
+      "sha256_cert_fingerprints": [
+        "A9:8D:F0:E2:8F:E9:7A:CC:20:6B:88:3D:12:A0:72:C8:9C:83:A9:69:51:6E:06:E2:CB:80:F5:BD:32:D8:F9:D4"
+      ]
+    }
+  }
+]
